@@ -1,0 +1,386 @@
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 1: import: command not found
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 2: import: command not found
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 4: syntax error near unexpected token `('
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 4: `connection = sqlite3.connect(config.DB_FILE)'
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 1: import: command not found
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 2: import: command not found
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 4: syntax error near unexpected token `('
+/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py: line 4: `connection = sqlite3.connect(config.DB_FILE)'
+env: python3: No such file or directory
+env: python3: No such file or directory
+env: python3: No such file or directory
+  File "/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py", line 23
+    print(f"Added a new stock {asset.symbol} {asset.name}")
+                                                         ^
+SyntaxError: invalid syntax
+  File "/Users/amit/Python_Projects/Algotrading/fullstack-trading-app/populate_stocks.py", line 23
+    print(f"Added a new stock {asset.symbol} {asset.name}")
+                                                         ^
+SyntaxError: invalid syntax
+Added a new stock MOON Direxion Moonshot Innovators ETF
+Added a new stock BWACU Better World Acquisition Corp. Unit
+Added a new stock PAIC Petra Acquisition, Inc. Common Stock
+Added a new stock PDAC Peridot Acquisition Corp.
+Added a new stock PRTC PureTech Health plc American Depositary Shares
+Added a new stock VACQ Vector Acquisition Corporation Class A Common Stock
+Added a new stock CNXCV Concentrix Corporation Common Stock When Issued
+Added a new stock NISN NiSun International Enterprise Development Group Co., Ltd. Class A Common Shares
+Added a new stock VTRS Viatris Inc. Common Stock
+Added a new stock OTRAU OTR Acquisition Corp. Unit
+Added a new stock ASPI Aspire Real Estate Investors, Inc.
+Added a new stock LBAY Leatherback Long/Short Alternative Yield ETF
+Added a new stock SMID Smith-Midland Corporation Common Stock
+Added a new stock EOSE Eos Energy Enterprises, Inc. Class A Common Stock
+Added a new stock BBSC JPMorgan BetaBuilders U.S. Small Cap Equity ETF
+Added a new stock ZNTEU Zanite Acquisition Corp. Unit
+Added a new stock DGNS Dragoneer Growth Opportunities Corp. II Class A Ordinary Shares
+Added a new stock PIPP.U Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-th
+Added a new stock CIXX CI Financial Corp.
+Added a new stock UK Ucommune International Ltd Ordinary Shares
+Added a new stock HCARU Healthcare Services Acquisition Corporation Unit
+Added a new stock JOET Virtus ETF Trust II Virtus Terranova U.S. Quality Momentum ETF
+Added a new stock MDVL MedAvail Holdings, Inc. Common Stock
+Added a new stock EGIS 2ndVote Society Defended ETF
+Added a new stock GCMG GCM Grosvenor Inc. Class A Common Stock
+Added a new stock PSA-O Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of
+Added a new stock LYFE 2ndVote Life Neutral Plus ETF
+Added a new stock DFAU Dimensional US Core Equity Market ETF
+Added a new stock RORO ATAC US Rotation ETF
+Added a new stock CHFW.U Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third
+Added a new stock DFAI Dimensional International Core Equity Market ETF
+Added a new stock LNFA.U L&F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one rede
+Added a new stock ARBGU Aequi Acquisition Corp. Unit
+Added a new stock PHICU Population Health Investment Co., Inc. Unit
+Added a new stock MP MP Materials Corp.
+Added a new stock USAT USA Technologies, Inc. Common Stock
+Added a new stock DBDR Roman DBDR Tech Acquisition Corp. Class A Common Stock
+Added a new stock TLS Telos Corporation Common Stock
+Added a new stock NGMS NeoGames S.A. Ordinary Shares
+Added a new stock JYAC Jiya Acquisition Corp. Class A Common Stock
+Added a new stock FCAC Falcon Capital Acquisition Corp. Class A Common Stock
+Added a new stock KWAC.U Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fo
+Added a new stock OLMA Olema Pharmaceuticals, Inc. Common Stock
+Added a new stock TVTX Travere Therapeutics, Inc. Common Stock
+Added a new stock CLII Climate Change Crisis Real Impact I Acquisition Corporation
+Added a new stock FGNA FG New America Acquisition Corp.
+Added a new stock NBA New Beginnings Acquisition Corp.
+Added a new stock IIAC.U Investindustrial Acquisition Corp. Units, each consisting of one Class A ordinary share and one-thir
+Added a new stock RTPZ.U Reinvent Technology Partners Z Units, each consisting of one Class A ordinary share and one-fifth o
+Added a new stock VYGG Vy Global Growth
+Added a new stock OAS Oasis Petroleum Inc. Common Stock
+Added a new stock CAS.U Cascade Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half o
+Added a new stock RCHG Recharge Acquisition Corp. Class A Common Stock
+Added a new stock YSG Yatsen Holding Limited American Depositary Shares, each representing four Class A ordinary shares
+Added a new stock SHC Sotera Health Company Common Stock
+Added a new stock MRVI Maravai LifeSciences Holdings, Inc. Class A Common Stock
+Added a new stock VSPR Vesper Healthcare Acquisition Corp. Class A Common Stock
+Added a new stock LSAQ LifeSci Acquisition II Corp. Common Stock
+Added a new stock OCA.U Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-ha
+Added a new stock NLSP NLS Pharmaceutics Ltd. Ordinary Shares
+Added a new stock BHFAN Brighthouse Financial, Inc. Depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C
+Added a new stock BREZU Breeze Holdings Acquisition Corp. Unit
+Added a new stock SEAH Sports Entertainment Acquisition Corp.
+Added a new stock FSTX F-star Therapeutics, Inc. Common Stock
+Added a new stock APSG Apollo Strategic Growth Capital
+Added a new stock VGAC VG Acquisition Corp.
+Added a new stock IMPX AEA-Bridges Impact Corp.
+Added a new stock IGAC IG Acquisition Corp. Class A Common Stock
+Added a new stock AVAN Avanti Acquisition Corp.
+Added a new stock ACTC ArcLight Clean Transition Corp. Class A Ordinary Shares
+Added a new stock QELL Qell Acquisition Corp. Class A Ordinary Shares
+Added a new stock ID PARTS iD, Inc.
+Added a new stock VCVCU 10X Capital Venture Acquisition Corp Unit
+Added a new stock GNPK.U Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of
+Added a new stock KFVG KraneShares CICC China 5G and Semiconductor Index ETF
+Added a new stock HFEN HF Enterprises Inc. Common Stock
+Added a new stock SVSVU Spring Valley Acquisition Corp. Unit
+Added a new stock KVLE KFA Value Line Dynamic Core Equity Index ETF
+Added a new stock VIV.WI Telefonica Brasil, S.A. American Depositary Shares (Each representing One Common Share)
+Added a new stock VMAR Vision Marine Technologies Inc. Common Shares
+Added a new stock TINV.U Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warr
+Added a new stock OZON Ozon Holdings PLC American Depositary Shares, each ADS representing one ordinary share
+Added a new stock SPRQ.U Spartan Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-ha
+Added a new stock SDHY PGIM Short Duration High Yield Opportunities Fund
+Added a new stock DEFN Emles Protective Allocation ETF
+Added a new stock AAN.WI The Aaron''s Company, Inc.
+Added a new stock CFR-B Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a sha
+Added a new stock SNX.WI SYNNEX Corporation
+Added a new stock FRX.U Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-th
+Added a new stock LUXE Emles Luxury Goods ETF
+Added a new stock AIZN Assurant, Inc. 5.25% Subordinated Notes due 2061
+Added a new stock BAMI Brookfield Finance I (UK) plc 4.50% Perpetual Subordinated Notes
+Added a new stock EMPW Empower Ltd.
+Added a new stock MACU Mallard Acquisition Corp. Common stock
+Added a new stock TPGY TPG Pace Beneficial Finance Corp.
+Added a new stock LIXT Lixte Biotechnology Holdings, Inc. Common Stock
+Added a new stock LCY Landcadia Holdings III, Inc. Class A Common Stock
+Added a new stock PACE TPG Pace Tech Opportunities Corp.
+Added a new stock FMAC FirstMark Horizon Acquisition Corp.
+Added a new stock AGC Altimeter Growth Corp. Class A Ordinary Shares
+Added a new stock DECZ TrueShares Structured Outcome (December) ETF
+Added a new stock QS QuantumScape Corporation
+Added a new stock SGAMU Seaport Global Acquisition Corp. Unit
+Added a new stock IPOE Social Capital Hedosophia Holdings Corp. V
+Added a new stock IPOD Social Capital Hedosophia Holdings Corp. IV
+Added a new stock DSAC Duddell Street Acquisition Corp. Class A Ordinary Shares
+Added a new stock IPOF Social Capital Hedosophia Holdings Corp. VI
+Added a new stock CNO-A CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060
+Added a new stock WRAP Wrap Technologies, Inc. Common Stock
+Added a new stock CNXC Concentrix Corporation Common Stock
+Added a new stock JGLD Amplify Pure Junior Gold Miners ETF
+Added a new stock POWW AMMO, Inc. Common Stock
+Added a new stock LAZR Luminar Technologies, Inc. Class A Common Stock
+Added a new stock PTICU PropTech Investment Corporation II Unit
+Added a new stock MGMT Ballast Small/Mid Cap ETF
+Added a new stock MBBB VanEck Vectors Moody''''s Analytics BBB Corporate Bond ETF
+Added a new stock AIRC.WI Apartment Income REIT Corp.
+Added a new stock HTPA.U Highland Transcend Partners I Corp. Units, each consisting of one Class A ordinary share and one-thi
+Added a new stock VNO-N Vornado Realty Trust 5.25% Series N Cumulative Redeemable Preferred Shares of Beneficial Interest, l
+Added a new stock LOKB.U Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-th
+Added a new stock CAP.U Capitol Investment Corp. V Units, each consisting of one share of Class A common stock, and one-thir
+Added a new stock KMLM KFA Mount Lucas Index Strategy ETF
+Added a new stock NVQ Qraft AI-Enhanced US Next Value ETF
+Added a new stock PBLA Panbela Therapeutics, Inc. Common Stock
+Added a new stock MIG VanEck Vectors Moody''''s Analytics IG Corporate Bond ETF
+Added a new stock FPAC.U Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third
+Added a new stock GDXD MicroSectors Gold Miners -3x Inverse Leveraged ETN
+Added a new stock RSVAU Rodgers Silicon Valley Acquisition Corp. Unit
+Added a new stock IHYF Invesco Actively Managed Exchange-Traded Fund Trus Invesco High Yield Bond Factor ETF
+Added a new stock SPFR.U JAWS Spitfire Acquisition Corp Units, each consisting of one Class A ordinary share, and one-fourth
+Added a new stock TACA.U Trepont Acquisition Corp I Units, each consisting of one Class A ordinary share and one-half of one
+Added a new stock MAAC Montes Archimedes Acquisition Corp. Class A Common Stock
+Added a new stock PTPI Petros Pharmaceuticals, Inc. Common Stock
+Added a new stock DCBO Docebo Inc. Common Shares
+Added a new stock GDXU MicroSectors Gold Miners 3x Leveraged ETN
+Added a new stock KNTE Kinnate Biopharma Inc. Common Stock
+Added a new stock AIV.WI Apartment Investment and Management Company
+Added a new stock DFAE Dimensional Emerging Core Equity Market ETF
+Added a new stock PRG PROG Holdings, Inc.
+Added a new stock YQ 17 Education & Technology Group Inc. American Depositary Shares
+Added a new stock FTCVU FinTech Acquisition Corp. V Unit
+Added a new stock SGTX Sigilon Therapeutics, Inc. Common Stock
+Added a new stock ONDS Ondas Holdings Inc. Common Stock
+Added a new stock SBTX Silverback Therapeutics, Inc. Common Stock
+Added a new stock SEER Seer, Inc. Class A Common Stock
+Added a new stock HMCOU HumanCo Acquisition Corp. Unit
+Added a new stock DFHY TrimTabs Donoghue Forlines Tactical High Yield ETF
+Added a new stock GLRY Inspire Faithward Mid Cap Momentum ESG ETF
+Added a new stock CND.U Concord Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half o
+Added a new stock DDMXU DD3 Acquisition Corp. II Unit
+Added a new stock RAACU Revolution Acceleration Acquisition Corp Unit
+Added a new stock MUDSU Mudrick Capital Acquisition Corporation II Unit
+Added a new stock DFNV TrimTabs Donoghue Forlines Risk Managed Innovation ETF
+Added a new stock ALTUU Altitude Acquisition Corp. Unit
+Added a new stock YSAC Yellowstone Acquisition Company Class A Common Stock
+Added a new stock FEVR Inspire Faithward Large Cap Momentum ESG ETF
+Added a new stock NGAC NextGen Acquisition Corporation Class A Ordinary Shares
+Added a new stock GWAC Good Works Acquisition Corp. Common Stock
+Added a new stock BTWN Bridgetown Holdings Limited Class A Ordinary Shares
+Added a new stock KBUY KraneShares CICC China Consumer Leaders Index ETF
+Added a new stock CERT Certara, Inc. Common Stock
+Added a new stock PUBM PubMatic, Inc. Class A Common Stock
+Added a new stock SV Spring Valley Acquisition Corp. Class A Ordinary Share
+Added a new stock SIGIP Selective Insurance Group, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B
+Added a new stock AI C3.ai, Inc.
+Added a new stock BNE Blue Horizon BNE ETF
+Added a new stock FLACU Frazier Lifesciences Acquisition Corporation Unit
+Added a new stock SGAM Seaport Global Acquisition Corp. Class A Common Stock
+Added a new stock CYTH Cyclo Therapeutics, Inc. Common Stock
+Added a new stock NEBCU Nebula Caravel Acquisition Corp. Unit
+Added a new stock DASH DoorDash, Inc.
+Added a new stock SNRHU Senior Connect Acquisition Corp. I Unit
+Added a new stock AVMU Avantis Core Municipal Fixed Income ETF
+Added a new stock JSTC Adasina Social Justice All Cap Global ETF
+Added a new stock HZON Horizon Acquisition Corporation II
+Added a new stock JCTR JPMorgan Carbon Transition U.S. Equity ETF
+Added a new stock HTOO Fusion Fuel Green PLC Class A Ordinary Shares
+Added a new stock CVLB Conversion Labs, Inc. Common Stock
+Added a new stock GLAQU Globis Acquisition Corp. Unit
+Added a new stock DM Desktop Metal, Inc.
+Added a new stock CTAQU Carney Technology Acquisition Corp. II Units
+Added a new stock HYFM Hydrofarm Holdings Group, Inc. Common Stock
+Added a new stock RMGBU RMG Acquisition Corp. II Unit
+Added a new stock ADOC Edoc Acquisition Corp. Class A Ordinary Share
+Added a new stock PCPC.U Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock a
+Added a new stock ADOCR Edoc Acquisition Corp. Right
+Added a new stock CBAH.U CBRE Acquisition Holdings, Inc. SAIL securities, each consisting of one share of Class A common stoc
+Added a new stock ABNB Airbnb, Inc. Class A Common Stock
+Added a new stock HIGA H.I.G. Acquisition Corp.
+Added a new stock SRSA Sarissa Capital Acquisition Corp. Class A Ordinary Shares
+Added a new stock QQD Simplify Exchange Traded Funds Simplify Growth Equity Plus Downside Convexity ETF
+Added a new stock MOTN Motion Acquisition Corp. Class A Common Stock
+Added a new stock MOTV.U Motive Capital Corp Units, each consisting of one Class A ordinary share, and one-third of one redee
+Added a new stock XPOA DPCM Capital, Inc.
+Added a new stock CTAC Cerberus Telecom Acquisition Corp.
+Added a new stock QQC Simplify Exchange Traded Funds Simplify Growth Equity Plus Convexity ETF
+Added a new stock NBTX Nanobiotix S.A. American Depositary Shares
+Added a new stock ROCCU Roth CH Acquisition II Co. Unit
+Added a new stock EDTXU EdtechX Holdings Acquisition Corp. II Unit
+Added a new stock SPNV Supernova Partners Acquisition Company, Inc.
+Added a new stock DWIN.U Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, an
+Added a new stock ACAC Acies Acquisition Corp. Class A Ordinary Share
+Added a new stock ABCL AbCellera Biologics Inc. Common Shares
+Added a new stock VVOS Vivos Therapeutics, Inc. Common Stock
+Added a new stock FDMT 4D Molecular Therapeutics, Inc. Common Stock
+Added a new stock GHVIU Gores Holdings VI, Inc. Unit
+Added a new stock KINZU KINS Technology Group Inc. Unit
+Added a new stock DCRB Decarbonization Plus Acquisition Corporation Class A Common Stock
+Added a new stock AIRC Apartment Income REIT Corp.
+Added a new stock OTRA OTR Acquisition Corp. Class A Common Stock
+Added a new stock ATAC Altimar Acquisition Corporation
+Added a new stock UZE United States Cellular Corporation 5.500% Senior Notes due 2070
+Added a new stock WNW Wunong Net Technology Company Limited Ordinary Shares
+Added a new stock OCG Oriental Culture Holding LTD Ordinary Shares
+Added a new stock RICE Rice Acquisition Corp.
+Added a new stock MRACU Marquee Raine Acquisition Corp. Unit
+Added a new stock GFNSL General Finance Corporation Senior Notes due 2021
+Added a new stock VINC Vincera Pharma, Inc. Common Stock
+Added a new stock VINCU Vincera Pharma, Inc. Unit
+Added a new stock BWAC Better World Acquisition Corp. Common Stock
+Added a new stock LFT Lument Finance Trust, Inc.
+Added a new stock ATH-D Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate
+Added a new stock EUCR Eucrates Biomedical Acquisition Corp. Ordinary Shares
+Added a new stock PRCH Porch Group, Inc. Common Stock
+Added a new stock MRM MEDIROM Healthcare Technologies Inc. American Depositary Share
+Added a new stock QPT AdvisorShares Q Portfolio Blended Allocation ETF
+Added a new stock VFIN Simplify Volt Fintech Disruption ETF
+Added a new stock QPX AdvisorShares Q Dynamic Growth ETF
+Added a new stock GSPY Gotham Enhanced 500 ETF
+Added a new stock VCAR Simplify Volt RoboCar Disruption and Tech ETF
+Added a new stock GEG Great Elm Group, Inc. Common Stock
+Added a new stock VCLO Simplify Volt Cloud and Cybersecurity Disruption ETF
+Added a new stock VPOP Simplify Volt Pop Culture Disruption ETF
+Added a new stock DNMR Danimer Scientific, Inc.
+Added a new stock CBTG Cabot Growth ETF
+Added a new stock AVDR AVDR US LargeCap Leading ETF
+Added a new stock RMO Romeo Power, Inc.
+Added a new stock AVDG AVDR US LargeCap ESG ETF
+Added a new stock DUDE Merlyn.AI SectorSurfer Momentum ETF
+Added a new stock SPRE SP Funds S&P Global REIT Sharia ETF
+Added a new stock RSI Rush Street Interactive, Inc.
+Added a new stock GNOG Golden Nugget Online Gaming, Inc. Class A Common Stock
+Added a new stock KNGS UPHOLDINGS Compound Kings ETF
+Added a new stock PSFF Pacer Swan SOS Fund of Funds ETF
+Added a new stock IPA ImmunoPrecise Antibodies Ltd. Common Stock
+Added a new stock CLNN Clene Inc. Common Stock
+Added a new stock TSIA TS Innovation Acquisitions Corp. Class A Common Stock
+Added a new stock RAYC Rayliant Quantamental China Equity ETF
+Added a new stock SDEI Sound Equity Income ETF
+Added a new stock SDEF Sound Enhanced Fixed Income ETF
+Added a new stock MRAD SmartETFs Advertising & Marketing Technology ETF
+Added a new stock DSJA Innovator Double Stacker ETF - January
+Added a new stock FVT.U Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and
+Added a new stock CRU.U Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one
+Added a new stock TSJA Innovator Triple Stacker ETF - January
+Added a new stock INKAU KludeIn I Acquisition Corp. Unit
+Added a new stock ROCC Roth CH Acquisition II Co. Common Stock
+Added a new stock EUCG Euclid Capital Growth ETF
+Added a new stock PFX PhenixFIN Corporation Common Stock
+Added a new stock ALTG-A Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A C
+Added a new stock DBJA Innovator Double Stacker 9 Buffer ETF - January
+Added a new stock ELDN Eledon Pharmaceuticals, Inc. Common Stock
+Added a new stock HCAR Healthcare Services Acquisition Corporation Class A Common Stock
+Added a new stock DMYI dMY Technology Group, Inc. III
+Added a new stock JANZ TrueShares Structured Outcome (January) ETF
+Added a new stock INDT INDUS Realty Trust, Inc. (MD) Common Stock
+Added a new stock PFXNL PhenixFIN Corporation 6.125% Senior Notes due 2023
+Added a new stock STRRP Star Equity Holdings, Inc. Series A Cumulative Perpetual Preferred Stock
+Added a new stock CFAC CF Finance Acquisition Corp. III Common Stock
+Added a new stock RSVA Rodgers Silicon Valley Acquisition Corp. Common Stock
+Added a new stock AZBJ AllianzIM U.S. Large Cap Buffer20 Jan ETF
+Added a new stock ENVB Enveric Biosciences, Inc. Common Stock
+Added a new stock STRR Star Equity Holdings, Inc. Common Stock
+Added a new stock AZAJ AllianzIM U.S. Large Cap Buffer10 Jan ETF
+Added a new stock PPGHU Poema Global Holdings Corp. Unit
+Added a new stock STPC.U Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one
+Added a new stock AKICU Sports Ventures Acquisition Corp. Unit
+Added a new stock BMTX BM Technologies, Inc.
+Added a new stock LJAQU LightJump Acquisition Corporation Unit
+Added a new stock KAIRU Kairos Acquisition Corp. Unit
+Added a new stock OMEG Omega Alpha SPAC Class A Ordinary Shares
+Added a new stock MODV ModivCare Inc. Common Stock
+Added a new stock TMKRU Tastemaker Acquisition Corp. Unit
+Added a new stock VCKAU Vickers Vantage Corp. I Unit
+Added a new stock LNFA L&F Acquisition Corp.
+Added a new stock AGCB Altimeter Growth Corp. 2
+Added a new stock BLTSU Bright Lights Acquisition Corp. Unit
+Added a new stock GSAQU Global Synergy Acquisition Corp. Units
+Added a new stock IVAN.U Ivanhoe Capital Acquisition Corp. Unit, each consisting of one Class A ordinary share and one-third
+Added a new stock ZNTE Zanite Acquisition Corp. Class A Common Stock
+Added a new stock VTIQU VectoIQ Acquisition Corp. II Unit
+Added a new stock POWRU Powered Brands Units
+Added a new stock LHC.U Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-quarter of one re
+Added a new stock PHIC Population Health Investment Co., Inc. Class A Ordinary Share
+Added a new stock CLOV Clover Health Investments, Corp. Class A Common Stock
+Added a new stock LWACU Locust Walk Acquisition Corp. Unit
+Added a new stock CLDL Direxion Daily Cloud Computing Bull 2X Shares
+Added a new stock SWBK.U Switchback II Corporation Units, each consisting of one Class A ordinary share and one fifth of one
+Added a new stock NHF-A NexPoint Strategic Opportunities Fund 5.50% Series A Cumulative Preferred Shares
+Added a new stock MCADU Mountain Crest Acquisition Corp. II Unit
+Added a new stock GRCL Gracell Biotechnologies Inc. American Depositary Shares
+Added a new stock CGEM Cullinan Management, Inc. Common Stock
+Added a new stock KLAQU KL Acquisition Corp Unit
+Added a new stock EPHYU Epiphany Technology Acquisition Corp. Unit
+Added a new stock KMPH KemPharm, Inc. Common Stock
+Added a new stock PAQCU Provident Acquisition Corp. Units
+Added a new stock PIPP Pine Island Acquisition Corp.
+Added a new stock PACXU Pioneer Merger Corp. Unit
+Added a new stock LSEA Landsea Homes Corporation Common Stock
+Added a new stock EPWR.U Empowerment & Inclusion Capital I Corp. Units, each consisting of one share of Class A common stock
+Added a new stock SVFAU SVF Investment Corp. Unit
+Added a new stock BCYPU Big Cypress Acquisition Corp. Unit
+Added a new stock CLDS Direxion Daily Cloud Computing Bear 2X Shares
+Added a new stock PRSRU Prospector Capital Corp. Unit
+Added a new stock CHFW Consonance-HFW Acquisition Corp.
+Added a new stock IIAC Investindustrial Acquisition Corp.
+Added a new stock LEXX Lexaria Bioscience Corp. Common Stock
+Added a new stock GPACU Global Partner Acquisition Corp II Unit
+Added a new stock INFL Horizon Kinetics Inflation Beneficiaries ETF
+Added a new stock MSGM Motorsport Games Inc. Class A Common Stock
+Added a new stock SWETU Athlon Acquisition Corp. Unit
+Added a new stock ENFAU 890 5th Avenue Partners, Inc. Unit
+Added a new stock VCVC 10X Capital Venture Acquisition Corp Class A Common Stock
+Added a new stock KUKE Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share
+Added a new stock DLCAU Deep Lake Capital Acquisition Corp. Unit
+Added a new stock ADEX.U Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on
+Added a new stock QLI Qilian International Holding Group Ltd. Ordinary Shares
+Added a new stock OCA Omnichannel Acquisition Corp.
+Added a new stock ARBG Aequi Acquisition Corp. Class A Common Stock
+Added a new stock RTPZ Reinvent Technology Partners Z
+Added a new stock BTRS BTRS Holdings Inc. Class 1 Common Stock
+Added a new stock EQH-C Equitable Holdings, Inc. Depositary Shares, each representing a 1/1, 000th interest in a share of Fi
+Added a new stock FINMU Marlin Technology Corporation Unit
+Added a new stock EACPU Edify Acquisition Corp. Units
+Added a new stock NGAB.U Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-th
+Added a new stock FCAX.U Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fift
+Added a new stock TZPSU TZP Strategies Acquisition Corp. Unit
+Added a new stock ONOF Global X Adaptive U.S. Risk Management ETF
+Added a new stock HLAHU Hamilton Lane Alliance Holdings I, Inc. Unit
+Added a new stock GBNY Generations Bancorp NY, Inc. Common Stock
+Added a new stock BOB Merlyn.AI Best-of-Breed Core Momentum ETF
+Added a new stock AFRM Affirm Holdings, Inc. Class A Common Stock
+Added a new stock PNTM.U Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem
+Added a new stock TINV Tiga Acquisition Corp.
+Added a new stock MONCU Monument Circle Acquisition Corp. Unit
+Added a new stock GNPK Genesis Park Acquisition Corp.
+Added a new stock XDAT Franklin Exponential Data ETF
+Added a new stock LVOL American Century Low Volatility ETF
+Added a new stock AEACU Authentic Equity Acquisition Corp. Unit
+Added a new stock HART IQ Healthy Hearts ETF
+Added a new stock HAAC Health Assurance Acquisition Corp. Class A Common Stock
+Added a new stock POSH Poshmark, Inc. Class A Common Stock
+Added a new stock ENVIU Environmental Impact Acquisition Corp. Unit
+Added a new stock WOOF Petco Health and Wellness Company, Inc. Class A Common Stock
+Added a new stock SLCRU Silver Crest Acquisition Corporation Unit
+Added a new stock OCAXU OCA Acquisition Corp. Unit
+Added a new stock HCICU Hennessy Capital Investment Corp. V Units
+Added a new stock OVT Overlay Shares Short Term Bond ETF
+Added a new stock ADERU 26 Capital Acquisition Corp. Unit
+Added a new stock PLTK Playtika Holding Corp. Common Stock
+Added a new stock CAS Cascade Acquisition Corp.
+Added a new stock CLAS.U Class Acceleration Corp. Units, each consisting of one share of Class A common stock and one-half of
+Added a new stock GNACU Group Nine Acquisition Corp. Unit
+Added a new stock TBA Thoma Bravo Advantage
+Added a new stock ROT.U Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of
+Added a new stock DRVN Driven Brands Holdings Inc. Common Stock
+Added a new stock HCCCU Healthcare Capital Corp. Unit
