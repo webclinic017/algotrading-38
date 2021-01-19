@@ -1,2 +1,2 @@
 # algotrading
-Getting more familliar with python and some data analysis related libraries awhile exploring algorithmic trading on paper accounts
+Currently working on a web app composing of a screener+broker+backtester
