@@ -1,0 +1,3 @@
+import create_db
+import populate_stocks
+import populate_prices

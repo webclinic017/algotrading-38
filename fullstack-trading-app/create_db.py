@@ -1,4 +1,6 @@
 import sqlite3, config
+import os
+cwd = os.getcwd()
 
 connection = sqlite3.connect(config.DB_FILE)
 
