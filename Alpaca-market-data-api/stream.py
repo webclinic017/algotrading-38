@@ -6,7 +6,7 @@ print(config.SECRET_KEY)
 def on_open(ws):
     print("opened")
     #auth_data = {"action": "authenticate","data": {"key_id": config.API_KEY, "secret_key": config.SECRET_KEY}}
-    auth_data={"action": "authenticate","data": {"key_id": "PKBSAVUI8HH1J0UJQ128", "secret_key": "JeUdFPimv8PWlSPfEzARdYAstZfpmwAJWgdCO3v6"}}
+    auth_data={"action": "authenticate","data": {"key_id": "[redacted]", "secret_key": "[redacted]"}}
     ws.send(json.dumps(auth_data))
 
     listen_message = {"action": "listen", "data": {"streams": ["AM.SPY"]}}
