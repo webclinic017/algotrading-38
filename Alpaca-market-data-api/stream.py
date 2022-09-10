@@ -24,5 +24,3 @@ socket = "wss://data.alpaca.markets/stream"
 
 ws = websocket.WebSocketApp(socket, on_open=on_open, on_message=on_message, on_close=on_close)
 ws.run_forever()
-
-#{"action": "authenticate","data": {"key_id": "PKAMETL7XYQYKV1F3SXR", "secret_key": "ez1oCI3h33yIy91LrXS2z96STr3m7nlWXRAxW07d"}}
